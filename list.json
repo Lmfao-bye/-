@@ -1,7 +1,3 @@
-  
 {
-    "3522803956": {
-        "ScriptName": "dpi.lua",
-        "GameName": "De Pride Isle"
-    }
+    "3522803956": { "Name": "De Pride Isle", "Script": "dpi.lua" }
 }

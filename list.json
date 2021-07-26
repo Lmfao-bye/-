@@ -1,6 +1,6 @@
 {
    "3522803956": { "Name": "De Pride Isle", "Script": "dpi.lua" },
    "4786930269": { "Name": "Eden Orphan Home", "Script": "ed.lua" },
-   "5804119467": { "Name": "Les Beyond East", "Script": "lbe.lua" }
-   "5804119467": { "Name": "Red Fox Grammar School", "Script": "rfgs.lua" }
+   "5804119467": { "Name": "Les Beyond East", "Script": "lbe.lua" },
+   "5979623073": { "Name": "Red Fox Grammar School", "Script": "rfgs.lua" }
 }
